@@ -31,12 +31,3 @@ div.highlightTextOut a:hover:before, div.highlightTextIn a:hover:before
     transform: scale(1);
     opacity: 1;
 }
-
-
-<div class="container highlightTextOut">
-  <a alt="HOME">HOME</a>
-  <a alt="ARTICLES">ARTICLES</a>
-  <a alt="PORTFOLIO">PORTFOLIO</a>
-  <a alt="ABOUT">ABOUT</a>
-  <a alt="CONTACT">CONTACT</a>
-</div>
